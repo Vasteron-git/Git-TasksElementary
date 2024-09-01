@@ -7,7 +7,7 @@ students = {'Johnny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'}
 list_students = list(students)
 list_students.sort()
 students_grades = {list_students[0] : sum(grades[0]) / len(grades[0])}
-for i in range(0, len(list_students) - 1):
+for i in range(0, len(list_students)):
     students_grades[list_students[i]] = {sum(grades[i]) / len(grades[i])}
 # students_grades = {list_students[0] : sum(grades[0]) / len(grades[0])}
 # students_grades[list_students[1]] = {sum(grades[1]) / len(grades[1])}
