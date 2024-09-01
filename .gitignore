@@ -1,10 +1,4 @@
 
 /.idea
 /.venv
-*.zip
-module_1_3.zip
-module_1_4.zip
-module_1_5.zip
-tasks2.zip
-tasks3.zip
-tasks.zip
+/zips

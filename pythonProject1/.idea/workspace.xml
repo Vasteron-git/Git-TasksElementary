@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3171c2a-cde7-4c18-a5cc-dcee60ed94d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1_3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks3.zip" afterDir="false" />
-    </list>
+    <list default="true" id="f3171c2a-cde7-4c18-a5cc-dcee60ed94d8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
