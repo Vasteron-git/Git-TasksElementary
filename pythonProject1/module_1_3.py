@@ -1,4 +1,3 @@
-from operator import truediv
 
 name = "Максим"
 print("Name: " + name)
